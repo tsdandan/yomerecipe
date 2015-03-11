@@ -1,0 +1,12 @@
+insert into recipe_step values(
+	?,
+	?,
+	?,
+	?,
+	?,
+	?,
+	?,
+	?,
+	?,
+	?
+)

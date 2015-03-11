@@ -1,0 +1,10 @@
+insert into type_recipe values(
+	?,
+	?,
+	?,
+	?,
+	?,
+	?,
+	?,
+	?
+)

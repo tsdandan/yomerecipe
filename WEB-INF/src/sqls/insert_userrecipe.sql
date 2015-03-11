@@ -1,0 +1,12 @@
+insert into user_recipe values(
+	?,
+	?,
+	?,
+	?,
+	?,
+	?,
+	?,
+	?,
+	?,
+	?
+)

@@ -1,0 +1,148 @@
+@CHARSET "UTF-8";
+header{
+	height:81px !important;
+}
+
+.logo_index{
+	height:81px;
+	float:left;
+}
+
+.slide_wrap{
+	width:100%;
+	height:296px;
+}
+
+.slide_area{
+	width:100%;
+	height:296px;
+	position:absolute;
+}
+
+.slider{
+	width:960px;
+	margin: 0 auto;
+}
+
+.slide_first{
+	z-index: 2;
+}
+
+.slide_second{
+	z-index: 1;
+}
+
+#sliderhide{
+	background:#a86779;
+}
+
+#slider1{
+	background:#E5E7E6;
+}
+
+#slider2{
+	background:#a86779;
+}
+
+#slider3{
+	background:#d4c3b0;
+}
+
+.intro_recipe{
+	width:335px;
+	height:262px;
+	margin-left:20px;
+}
+
+.login_area{
+	width:260px;
+	margin-top:46px;
+}
+
+.intro_test{
+	width:234px;
+	height:262px;
+	margin-left:20px;
+	background-image:url("../img/banner_test.png");
+}
+
+.intro_level{
+	width:336px;
+	height:262px;
+	margin-left:15px;
+}
+
+
+#btn_gotest{
+	display:block;
+	font-size:18px;
+	width:159px;
+	margin:0 auto;
+	margin-top:150px;
+}
+
+.headline{
+	height:2px;
+	background:#EEC2C1;
+}
+
+.intro{
+	width:100%;
+	height:308px;
+	margin-top:2px;
+	padding-top:22px;
+	background:#E49FA2;
+}
+
+#btn_login{
+	width:86px;
+	height:35px;
+	background-image:url("../img/button_login.png");
+	float:left;
+	display:block;
+}
+
+#btn_reg{
+	width:89px;
+	height:35px;
+	background-image:url("../img/button_enter.png");
+	float:left;
+	display:block;
+}
+
+#btn_slide_reg1{
+	width:181px;
+	height:51px;
+	background-image:url("../img/button_fastlogin1.png");
+	display:block;
+	position:relative;
+	top:-100px;
+	margin:0 auto;
+}
+
+#btn_slide_reg2{
+	width:181px;
+	height:51px;
+	background-image:url("../img/button_fastlogin2.png");
+	display:block;
+	position:relative;
+	top:-100px;
+	margin:0 auto;
+}
+
+#btn_slide_reg3{
+	width:181px;
+	height:51px;
+	background-image:url("../img/button_fastlogin3.png");
+	display:block;
+	position:relative;
+	top:-100px;
+	margin:0 auto;
+}
+
+#btn_back{
+	display: inline-block;
+	width: 150px;
+	margin-top: 20px;
+	padding: 5px;
+}

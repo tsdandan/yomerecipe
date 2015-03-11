@@ -1,0 +1,25 @@
+package jp.co.yomerecipe.servlet;
+
+import java.io.IOException;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+public class IndexServlet extends HttpServlet {
+
+	/**
+	 *
+	 */
+	private static final long serialVersionUID = 6301304166487022165L;
+
+    public void doGet(HttpServletRequest request, HttpServletResponse response)
+            throws ServletException, IOException {
+    	response.sendRedirect("Action/Index");
+    }
+    public void doPost(HttpServletRequest request, HttpServletResponse response)
+            throws ServletException, IOException {
+    	response.sendRedirect("Action/Index");
+    }
+}

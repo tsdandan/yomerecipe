@@ -1,0 +1,146 @@
+@CHARSET "UTF-8";
+.wrap{
+	width:730px;
+	margin-left:20px;
+	float:left;
+}
+
+#sideselector{
+	height:360px;
+}
+
+#selector{
+	height:360px;
+	border:#FF85AE 2px solid;
+}
+
+#input_keyword{
+	width:120px;
+	float:left;
+	margin-left:10px;
+	margin-top:10px;
+}
+
+#btn_search{
+	margin-left:10px;
+	margin-top:10px;
+	padding-top:1px;
+	width:45px;
+	height:18px;
+	display:block;
+	float:left;
+}
+
+.div_category{
+	clear: both;
+	margin-left:10px;
+	margin-top:10px;
+}
+
+.title_category{
+	width:70px;
+	display:inline-block;
+	font-size: 14px;
+}
+
+.select_category{
+	width:80px;
+	margin-left:10px;
+}
+
+.btn_selector{
+	font-size:12px;
+	float:left;
+	margin-left:10px;
+	margin-top:10px;
+	padding:2px 2px 1px;
+}
+
+#sortarea{
+	height:40px;
+	clear: both;
+	position:relative
+}
+
+.title_sort{
+	width:70px;
+	display:inline-block;
+	font-size: 14px;
+}
+
+.select_sort{
+	width:110px;
+	margin-left:10px;
+}
+
+.pagearrow{
+	width:12px;
+	height:12px;
+}
+
+.pagearrow img{
+	width:12px;
+	height:12px;
+}
+
+.div_sort{
+	margin-left:10px;
+	margin-top:10px;
+	display:inline-block;
+}
+
+#pagingarea{
+	display:inline-block;
+	position:absolute;
+	margin-right:10px;
+	margin-top:10px;
+	width:500px;
+	text-align:right;
+	font-size:14px;
+}
+
+.pageinfo{
+	font-size:14px;
+}
+
+.doubleline{
+	background:#FF85AE;
+	height:4px;
+	width:98%;
+	margin:0px auto;
+}
+
+.list_user{
+	width:350px;
+	height:200px;
+	margin-left:10px;
+	display:inline-block;
+}
+
+.list_user:first-child{
+	margin-top:10px;
+}
+.list_user a{
+}
+
+.list_user img{
+    width:100px;
+	float: left;
+}
+
+.user_info{
+	width:200px;
+	float: left;
+	margin-left:10px;
+}
+
+.list_desc{
+	height:100px;
+}
+
+.list_divider{
+	margin-top:5px;
+	margin-bottom:10px;
+	width:95%;
+}
+

@@ -1,0 +1,86 @@
+@CHARSET "UTF-8";
+header{
+	height:30px !important;
+}
+
+.recipe{
+	margin-top:0px !important;
+}
+.stuff_area{
+	margin-left:20px;
+}
+.recipe_detail_list{
+	min-height:500px;
+}
+
+.link_addstep{
+	width:220px;
+	margin-left:20px;
+	display:block
+}
+
+.link_addstep img{
+	width:200px;
+}
+
+.textarea_des{
+	width:95%;
+	height:120px;
+}
+
+.input_stuff{
+	width:90px;
+	padding-left:5px;
+}
+
+.btn_addstuff{
+	width:30px !important;
+	margin-left:10px;
+	margin-top:15px;
+}
+
+.table_add_stuff{
+	margin-top:20px;
+	margin-left:20px;
+}
+
+#btn_return{
+	display:inline-block;
+	width:100px;
+	margin-left:70px;
+	margin-top:20px;
+	margin-bottom:20px;
+	padding:5px;
+}
+
+#btn_confirm{
+	display:inline-block;
+	width:100px;
+	margin-left:70px;
+	margin-top:20px;
+	padding:5px;
+}
+
+.minus img{
+	width:15px !important;
+}
+
+.select_normal{
+	width:60px;
+	margin-left:10px;
+	margin-top:10px;
+	line-height:20px;
+	padding:2px 0px 2px 5px;
+	font-size:14px;
+}
+
+.stuff_cell{
+	width:43%;
+	border-top:rgb(255,102,153) solid 1px;
+	padding: 1px 5px 0px 5px;
+}
+
+.stuff_cell:nth-child(2n+1){
+	border-right:rgb(255,102,153) solid 1px;
+}
+

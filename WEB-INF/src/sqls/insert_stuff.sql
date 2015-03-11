@@ -1,0 +1,11 @@
+insert into recipe_stuff values(
+	?,
+	?,
+	?,
+	?,
+	?,
+	?,
+	?,
+	?,
+	?
+)

@@ -1,0 +1,11 @@
+insert into user_level values(
+	?,
+	?,
+	?,
+	?,
+	?,
+	?,
+	?,
+	?,
+	?
+)
